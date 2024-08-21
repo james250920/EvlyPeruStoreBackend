@@ -1,0 +1,11 @@
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\bin\Debug\net8.0\EvlyPeruStoreBK.Core.deps.json
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\bin\Debug\net8.0\EvlyPeruStoreBK.Core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\bin\Debug\net8.0\EvlyPeruStoreBK.Core.pdb
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.AssemblyInfoInputs.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.AssemblyInfo.cs
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.csproj.CoreCompileInputs.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\refint\EvlyPeruStoreBK.Core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\EvlyPeruStoreBK.Core.pdb
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Core\obj\Debug\net8.0\ref\EvlyPeruStoreBK.Core.dll

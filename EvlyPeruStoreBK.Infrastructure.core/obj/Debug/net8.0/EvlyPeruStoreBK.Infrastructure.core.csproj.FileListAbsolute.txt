@@ -1,0 +1,17 @@
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.deps.json
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.runtimeconfig.json
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.pdb
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.csproj.AssemblyReference.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.AssemblyInfoInputs.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.AssemblyInfo.cs
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.csproj.CoreCompileInputs.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\refint\EvlyPeruStoreBK.Infrastructure.core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.pdb
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeruStoreBK.Infrastructure.core.genruntimeconfig.cache
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\ref\EvlyPeruStoreBK.Infrastructure.core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Core.dll
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\bin\Debug\net8.0\EvlyPeruStoreBK.Core.pdb
+C:\Users\Menfroyt\Desktop\Developer\Backend\EvlyPeruStoreBK\EvlyPeruStoreBK.Infrastructure.core\obj\Debug\net8.0\EvlyPeru.895F2E4E.Up2Date

@@ -1,0 +1,6 @@
+@EvlyPeruStoreBK_HostAddress = http://localhost:5172
+
+GET {{EvlyPeruStoreBK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
